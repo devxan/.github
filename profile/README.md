@@ -3,3 +3,5 @@
 <p align="center">
   <b><a href="discord.gg/bUtXEtHKKC">Scratch × Discord</a></b> is an server on Discord helping Scratchers to connect outside of Scratch. 
 </p
+
+<!--- Thanks to https://github.com/cptlstudio for showing me (Xan) how to make profiles for GitHub organizations. --->
